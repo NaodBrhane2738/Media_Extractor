@@ -1,4 +1,4 @@
-# YTPY
+# YoutubePY
 
 YTPY is an advanced YouTube video downloader written in Python. It performs media stream extraction on target URLs, attempts to grab high-quality video and audio files, and provides memory-safe file handling. The tool supports a fully interactive web-based user interface (UI) mode via Streamlit.
 
